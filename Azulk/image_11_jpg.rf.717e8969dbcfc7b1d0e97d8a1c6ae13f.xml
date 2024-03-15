@@ -1,7 +1,7 @@
 <annotation>
 	<folder></folder>
-	<filename>image_7_jpg.rf.9232769c4a26604a5f519c1436848e92.jpg</filename>
-	<path>image_7_jpg.rf.9232769c4a26604a5f519c1436848e92.jpg</path>
+	<filename>image_11_jpg.rf.717e8969dbcfc7b1d0e97d8a1c6ae13f.jpg</filename>
+	<path>image_11_jpg.rf.717e8969dbcfc7b1d0e97d8a1c6ae13f.jpg</path>
 	<source>
 		<database>roboflow.com</database>
 	</source>
@@ -12,17 +12,29 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>SUPER-RIEL-AZUL-BOTELLA-925_50</name>
+		<name>REY-BOTELLA-2L</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>426</xmin>
-			<xmax>478</xmax>
-			<ymin>324</ymin>
-			<ymax>504</ymax>
+			<xmin>2</xmin>
+			<xmax>189</xmax>
+			<ymin>186</ymin>
+			<ymax>607</ymax>
 		</bndbox>
+		<polygon>
+			<x1>0.558968</x1>
+			<y1>605.859911</y1>
+			<x2>188.419556</x2>
+			<y2>550.490264</y2>
+			<x3>188.419556</x3>
+			<y3>185.371225</y3>
+			<x4>2.16459</x4>
+			<y4>186.976134</y4>
+			<x5>0.558968</x5>
+			<y5>605.859911</y5>
+		</polygon>
 	</object>
 	<object>
 		<name>SUPER-RIEL-AZUL-BOTELLA-925_50</name>
@@ -31,10 +43,10 @@
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>378</xmin>
-			<xmax>428</xmax>
-			<ymin>324</ymin>
-			<ymax>505</ymax>
+			<xmin>176</xmin>
+			<xmax>302</xmax>
+			<ymin>98</ymin>
+			<ymax>541</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -44,10 +56,10 @@
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>330</xmin>
-			<xmax>380</xmax>
-			<ymin>324</ymin>
-			<ymax>503</ymax>
+			<xmin>293</xmin>
+			<xmax>391</xmax>
+			<ymin>101</ymin>
+			<ymax>499</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -57,49 +69,36 @@
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>275</xmin>
-			<xmax>329</xmax>
-			<ymin>325</ymin>
-			<ymax>508</ymax>
+			<xmin>398</xmin>
+			<xmax>457</xmax>
+			<ymin>110</ymin>
+			<ymax>466</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>SUPER-RIEL-AZUL-DOY-PACK-1600_51</name>
+		<name>SUPER-RIEL-AZUL-BOTELLA-925_50</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>188</xmin>
-			<xmax>272</xmax>
-			<ymin>356</ymin>
-			<ymax>503</ymax>
+			<xmin>451</xmin>
+			<xmax>522</xmax>
+			<ymin>124</ymin>
+			<ymax>443</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>SUPER-RIEL-AZUL-DOY-PACK-1600_51</name>
+		<name>SUPER-RIEL-AZUL-BOTELLA-925_50</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<occluded>0</occluded>
 		<bndbox>
-			<xmin>137</xmin>
-			<xmax>200</xmax>
-			<ymin>356</ymin>
-			<ymax>503</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>ACTIX-AZUL-BOTELLA-950_1</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>481</xmin>
-			<xmax>559</xmax>
-			<ymin>351</ymin>
-			<ymax>504</ymax>
+			<xmin>524</xmin>
+			<xmax>582</xmax>
+			<ymin>136</ymin>
+			<ymax>426</ymax>
 		</bndbox>
 	</object>
 </annotation>
